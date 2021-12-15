@@ -1,0 +1,24 @@
+{
+  "name": "accounts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --experimental-modules index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guibbers/Accounts.git"
+  },
+  "author": "Guilherme Torres",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guibbers/Accounts/issues"
+  },
+  "homepage": "https://github.com/guibbers/Accounts#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "inquirer": "^8.2.0"
+  }
+}
